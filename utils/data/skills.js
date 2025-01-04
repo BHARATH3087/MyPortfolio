@@ -1,4 +1,26 @@
 export const skillsData = [
+   'Java',
+     'Python',
+  'C',
+  'C++',
+  'C#',
+'ASP.NET',
+'C#',
+  'Angular',
+  'Docker',
+    'Matlab',
+    'Nginx',
+     'Django',
+  'OpenCV',
+  'Pytorch',
+   'Tensorflow',
+   'Numpy',
+ 'MySQL',
+  'PostgreSQL',
+'AWS',
+'Node JS',
+  'Firebase',
+  'MongoDB',
   'HTML',
   'CSS',
   'Javascript',
@@ -16,9 +38,9 @@ export const skillsData = [
   'Go',
   'Figma',
   'Firebase',
-  'MaterialUI',
+  'Azure',
   'Nginx',
-  'Strapi'
+  'Bootstrap'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -99,8 +121,34 @@ export const skillsData = [
   MaterialUI
   Nginx
   Numpy
+
+  
+C#
+  Angular
+  Docker
+    Matlab
+    Nginx
+     Django
   OpenCV
   Pytorch
+   Tensorflow
+    Numpy
+  MySQL
+  PostgreSQL
+AWS
+  Firebase
+  MongoDB
+
+
+
+
+
+
+
+
+
+
+
   Selenium
   Strapi
   Tensorflow

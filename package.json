@@ -1,6 +1,6 @@
 {
   "name": "developer-portfolio",
-  "description": "Portfolio of Abu Said",
+  "description": "Portfolio of Bharath",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -32,4 +32,5 @@
     "sass": "^1.69.5",
     "tailwindcss": "latest"
   }
+  
 }
